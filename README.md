@@ -3,7 +3,7 @@ Credit risk modeling is a crucial process in financial risk management, aiming t
 
 ### 🔍 Steps in Credit Risk Modeling  
 1. **Exploratory Data Analysis (EDA)**: Analyzed customer data to identify patterns and correlations.  
-2. **Feature Engineering**:Developed New feature to find meaning full insights.  
+2. **Feature Engineering**:Developed New feature using existing data to find meaning full insights.  
 3. **Model Validation**: Evaluated model performance using various statistical and machine learning techniques.  
 
 ### 🏆 Model Performance  
